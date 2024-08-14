@@ -1,6 +1,6 @@
 # 数学建模(mathematical modeling）
 
-## ZUA
+## hello world!!!!
 建模小组
 
 ## 竞赛历程
